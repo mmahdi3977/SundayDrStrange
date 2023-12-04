@@ -8,4 +8,5 @@ public class SingletonUse {
 		object.silverMahdi();
 	}
 
+	// this change is to check on devMahdi
 }
