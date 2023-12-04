@@ -20,4 +20,5 @@ public class Singleton {
 		System.out.println("Mahdi is silver");
 	}
 
+	// this change is to check on devMahdi
 }
